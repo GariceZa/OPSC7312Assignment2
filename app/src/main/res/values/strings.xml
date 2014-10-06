@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">OPSC7312 Assignment 2</string>
+    <string name="current_address">Address:</string>
+    <string name="question1">Question 1</string>
+    <string name="question2">Question 2</string>
+    <string name="about">About</string>
+    <string name="message">Message:</string>
+    <string name="send_sms">Send SMS</string>
+    <string name="location">Location:</string>
+    <string name="send">Send Location To:</string>
+    <string name="welcome">Welcome to my assignment 2 application, click on the buttons below or use the menu to launch the required activity</string>
+    <string name="country">Country:</string>
+    <string name="suburb">Suburb:</string>
+    <string name="postcode">Code:</string>
+    <string name="help">Help</string>
+    <string name="exit">Exit</string>
+    <string name="student_details">
+       Student Name: Gareth Price\n
+       Student Number: 11044620\n
+       Course: DISD\n
+       Module: OPSC 7312
+    </string>
+    <string name="q1_help_info">If you would like to know the addresses of places you visit or as you drive by them then this
+    is the app for you! start up the application and wait for your position to be found, once your location has been determined
+    your location will be zoomed into and the address will display beneath the map, you can also see your position in real time
+    as you move from place to place so you will know exactly where you are.
+    </string>
+        <string name="q2_help_info">With this application you can send your current location to anyone in your contacts, use it if
+            you are lost, needing help or someone is trying to find you.This application uses GPS in order to find your exact location
+            and provide pin point accuracy.How it works: once your location has been determined the contacts text field will become activated
+            and you can start typing the name of the contact you want to send your location to, the application will start prompting you with suggestions
+            based on your input. you can then type in an optional message to your contact, if you leave the text field blank then a default message will
+            be sent with your location. Pop up messages will display when the message has been sent and delivered.
+    </string>
+    <string name="q1_about_info">Create an Android App that will allow a user to find the mobile phone’s current location using the GPS Location Provider.
+        Using the Geocoder, you can determine the street address of your current location. Update the street address whenever the device moves.
+    </string>
+        <string name="q2_about_info">Using Question 1 above as a guideline, you are now required to create an application that combines the use of GPS (location based) and SMS technology.
+        You may conceptualise, design and code your own app based on your own idea. Try to make your GPS/ SMS app useful to a specific business, to non-profit organisation (NGO), or to education.
+    </string>
+
+
+
+</resources>

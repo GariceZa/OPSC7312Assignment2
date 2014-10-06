@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".StartActivity" >
+
+    <item
+        android:id="@+id/startQ1"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        android:title="@string/question1">
+    </item>
+
+    <item
+        android:id="@+id/startQ2"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        android:title="@string/question2">
+    </item>
+
+    <item
+        android:id="@+id/about"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        android:title="@string/about">
+    </item>
+
+    <item
+        android:id="@+id/mainExit"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        android:title="@string/exit">
+    </item>
+
+</menu>
