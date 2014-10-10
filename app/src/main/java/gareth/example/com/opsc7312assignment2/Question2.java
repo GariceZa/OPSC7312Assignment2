@@ -91,7 +91,7 @@ public class Question2 extends Activity implements LocationListener {
                     }
                 }
                 //validating all variables are set so the SMS can be sent
-                if (lat != "" && lon != "" && sendNumber != "")
+                if (!lat.equals("") && !lon.equals("") && !sendNumber.equals(""))
                 {
                     btnSendSMS.setEnabled(true);
                 }

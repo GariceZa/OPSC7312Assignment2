@@ -16,6 +16,8 @@
     <string name="postcode">Code:</string>
     <string name="help">Help</string>
     <string name="exit">Exit</string>
+    <string name="contactname">Type Contacts Name</string>
+    <string name="messagehere">Type your message here</string>
     <string name="student_details">
        Student Name: Gareth Price\n
        Student Number: 11044620\n
